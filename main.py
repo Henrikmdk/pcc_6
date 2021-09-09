@@ -341,3 +341,5 @@ custom_computer = {
     'Software': 'None',
 }
 custom_computers.append(computer)
+
+# her bør arbejdes lidt mere med kap 6
